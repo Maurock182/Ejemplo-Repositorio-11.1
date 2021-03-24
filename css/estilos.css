@@ -3,3 +3,19 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: cadetblue;
 }
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: coral;
+
+}
+p{
+    text-align: justify;
+
+}
+#contenedor{
+    background-color: crimson;
+    padding: 20px;
+}
+#contenedor img{
+    width: 100%;
+}
